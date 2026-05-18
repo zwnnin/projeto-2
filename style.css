@@ -1,0 +1,28 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+header{
+ display: flex;
+ justify-content: space-between;   
+ align-items:center ;
+ background-color: rgb(167, 78, 78);
+ padding: 15px;
+}
+
+h1{
+font-size: 25px;
+color: lightpink;
+
+}
+
+nav{
+padding: 10px;    
+}
+
+a{
+    text-decoration: none;
+    font-size: 20px;
+}
+
