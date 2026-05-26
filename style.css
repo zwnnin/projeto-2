@@ -26,3 +26,23 @@ a{
     font-size: 20px;
 }
 
+section{
+    flex-direction: column;
+}
+ .cartao{
+    width: 200px;
+    height: 200px;
+ }
+.cartao-frente{
+    background-color: rgba(255, 105, 180, 0.719);
+    position: absolute;
+    border-radius: 12px;
+    border: solid 5px rgba(255, 0, 0, 0.37);
+}
+
+    .cartao-verso{
+        background-color: azure;
+        position: absolute;
+        border-radius: 12px;
+        border: solid 5px snow;
+    }
